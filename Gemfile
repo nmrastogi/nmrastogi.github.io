@@ -1,6 +1,5 @@
 source "https://rubygems.org"
-group :jekyll_plugins do
-    gem "wdm", ">=0.1.0" 
+group :jekyll_plugins do 
     gem "jekyll"    
     gem "jekyll-paginate"
     gem "jekyll-sitemap"
