@@ -114,7 +114,7 @@ analytics:
 author:
   name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Masters student at the University of Utah"
+  bio              : "MSCS at the University of Utah"
   location         : "Salt Lake City"
   #email            : "nmrastogi@gmail.com"
   links:
