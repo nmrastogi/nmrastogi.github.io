@@ -118,7 +118,7 @@ author:
   location         : "Salt Lake City"
   #email            : "nmrastogi@gmail.com"
   links:
-    - label: "Email"
+    - label: "nmrastogi@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nmrastogi@gmail.com"
     - label: "Website"
