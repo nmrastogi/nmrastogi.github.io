@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Naman Rastogi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Naman Rastogi"
+# name                     : "Naman Rastogi"
 description              : "An amazing website."
 url                      : "https://namanrastogi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
