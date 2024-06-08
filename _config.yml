@@ -143,12 +143,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "nmrastogi@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nmrastogi@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/namanrastogi04/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/nmrastogi"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
