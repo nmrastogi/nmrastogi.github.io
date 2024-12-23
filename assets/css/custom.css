@@ -1,0 +1,8 @@
+.u-photo {
+    border-radius: 0%; /* Adjust to control shape (50% for circle, 0 for square) */
+    width: 200px; /* Increase the width */
+    height: auto; /* Maintain aspect ratio */
+    border: 5px solid #ddd; /* Optional: Add a border */
+    padding: 5px; /* Optional: Add padding */
+}
+
