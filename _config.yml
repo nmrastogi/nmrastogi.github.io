@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "Naman Rastogi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Naman Rastogi"
+name                     : " "
 description              : "An amazing website."
 url                      : "https://namanrastogi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
