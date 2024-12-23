@@ -19,4 +19,5 @@ group :jekyll_plugins do
     gem "jekyll-target-blank"
     gem "jekyll-twitter-plugin"
     gem "github-pages"
+    gem "minimal-mistakes-jekyll"
 end
