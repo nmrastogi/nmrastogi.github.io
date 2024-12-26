@@ -20,7 +20,7 @@ title                    : "Naman Rastogi"
 title_separator          : #"-"
 subtitle                 : #site tagline that appears below site title in masthead
 name                     : #" "
-description              : "An amazing website."
+description              : "My work."
 url                      : "https://nmrastogi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nmrastogi/nmrastogi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
