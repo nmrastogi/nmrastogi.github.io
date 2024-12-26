@@ -8,8 +8,8 @@ author_profile: true
 
 
 **Navigating Early-Stage Migration: Comparing QAnon Community Dynamics on Twitter, Parler, and Dotwin**  
+[[PDF]](https://osf.io/exh2k)
 *ACM CSCW 2025 (under review)*  
-[PDF](https://osf.io/exh2k)  
 <ins>Naman Rastogi</ins>, Aly Hill, Marina Kogan  
 **Date**: 2024  
 
@@ -27,5 +27,5 @@ Atishay Jain, <ins>Naman Rastogi</ins>, Sushma Jain
 # Poster
 
 **Navigating Early-Stage Migration: Comparing QAnon Community Dynamics on Twitter, 	Parler, and Dotwin** 
-[PDF](https://osf.io/xeau9/)
+[[PDF]](https://osf.io/xeau9/)
 Poster will be presented at ACM GROUP 2025,  Hilton Head Island, SC
