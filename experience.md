@@ -7,16 +7,18 @@ author_profile: true
 
 ## Research Assitant, Kahlert School Computing
 **August 2023 - Present** 
-<br>Worked on the QAnon project
+<br>Examined the impact of platform migration on the QAnon community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how QAnon’s community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to the Jan 6th Capitol attack.
 
 ## Teaching Assitant, Kahlert School Computing
 **January 2024 - Present**
-
+<br> Assisted in teaching DS2500 "Data Wrangling" by conducting weekly office hours and grading assignments for a class of 120 students, supporting skill development in data collection, cleaning, and organization. Led as head teaching assistant in the second term, providing feedback to the instructor to improve course structure and enhance the overall learning experience. 
 
 
 
 ## Research Assitant, Vellore Institute of Technology
 **January 2022 - August 2022**
+<br> Investigated the impact of Covid-19 on pharmaceutical company stock prices. Applied data science techniques such as forward feature selection and Pearson correlation, uncovering a lack of direct correlation between Covid-19 cases and stock price trends. 
+ 
 
 <!-- **University of Utah**                 Salt Lake City, UT
 

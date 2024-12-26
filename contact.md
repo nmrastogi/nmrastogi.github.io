@@ -7,7 +7,7 @@ author_profile: true
 
 You can contact my through:
 
-1.  Email:[nmrastogi@gmail.com](mailto:nmrastogi@gmail.com)/[naman.rastogi@utah.edu](mailto:naman.rastogi@utah.edu)
+1.  Email: [nmrastogi@gmail.com](mailto:nmrastogi@gmail.com)/[naman.rastogi@utah.edu](mailto:naman.rastogi@utah.edu)
     
 2.  [LinkedIn](https://www.linkedin.com/in/namanrastogi04/)
     
