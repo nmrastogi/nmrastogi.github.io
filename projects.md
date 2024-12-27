@@ -14,4 +14,6 @@ The findings of this project were selected for a poster presentation at ACM [GRO
 ---
 
 **The DIY approach in T1 diabetes** (2023)
+<br> In this project, we aimed to develop a deep insight into how the type-1 diabetic(T1D) community works to solve their issues without institutional experts. This led to our research question: “How do the type-1 diabetic community create their own knowledge and solve their own issues.”
 
+---
