@@ -26,6 +26,7 @@ Atishay Jain, <ins>Naman Rastogi</ins>, Sushma Jain
 # Poster
 
 **Navigating Early-Stage Migration: Comparing QAnon Community Dynamics on Twitter, Parler, and Dotwin**  
-[[PDF]](https://osf.io/xeau9/)  
-Poster will be presented at ACM GROUP 2025, Hilton Head Island, SC
+[[PDF]](https://osf.io/xeau9/) 
+<br>doi: [10.1145/3688828.3699641](https://doi.org/10.1145/3688828.3699641) 
+<br>Poster will be presented at ACM GROUP 2025, Hilton Head Island, SC
 
