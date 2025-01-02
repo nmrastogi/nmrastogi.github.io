@@ -13,6 +13,11 @@ Introduced lexical analysis to examine the nature of conversations, categorizing
 The findings of this project were selected for a poster presentation at ACM [GROUP 2025](https://group.acm.org/conferences/group25/index.php)[[PDF]](https://osf.io/xeau9/), and a full paper was submitted to ACM [CSCW 2025](https://cscw.acm.org/2025/)[[PDF]](https://osf.io/exh2k), which is under review. 
 ---
 
+
+**Machine Learning assignments** (2024)
+
+
+---
 **The DIY approach in T1 diabetes** (2023)
 <br> In this project, we aimed to develop a deep insight into how the type-1 diabetic(T1D) community works to solve their issues without institutional experts. This led to our research question: “How do the type-1 diabetic community create their own knowledge and solve their own issues.”
 <br>[[PDF]](https://drive.google.com/file/d/1ewmNkJyvzRHUdEAzSXVCqc2h2EBxhd-b/view)
