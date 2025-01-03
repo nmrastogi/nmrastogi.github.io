@@ -54,7 +54,8 @@ The findings of this project were selected for a poster presentation at ACM [GRO
   - Mushroom Dataset.
   - Diabetic Retinopathy data.
 - Practical implementation of machine learning concepts.
-<br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code) 
+
+[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code) 
 
 ---
 **The DIY approach in T1 diabetes** (2023)
