@@ -13,49 +13,27 @@ Introduced lexical analysis to examine the nature of conversations, categorizing
 The findings of this project were selected for a poster presentation at ACM [GROUP 2025](https://group.acm.org/conferences/group25/index.php)[[PDF]](https://osf.io/xeau9/), and a full paper was submitted to ACM [CSCW 2025](https://cscw.acm.org/2025/)[[PDF]](https://osf.io/exh2k), which is under review. 
 ---
 
+**Machine Learning project** (2024)
+<br> Achieved a 22nd rank out of 142 students in a Kaggle competition centered on the Old Bailey dataset, a binary classification problem. Implemented various machine learning models, including perceptrons, support vector machines (SVMs), logistic regression, and ensemble methods like AdaBoost. Focused on data preprocessing by integrating multiple datasets (e.g., bag-of-words, TF-IDF, and GloVe embeddings), handling missing values, and applying label encoding to categorical features. Tuned hyperparameters extensively and optimized performance by combining datasets and utilizing advanced ensemble techniques. This project demonstrated my ability to apply machine learning concepts to a complex real-world dataset.
+<br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code/Project) 
 
+---
 **Machine Learning assignments** (2024)
 <br> Various machine learning techniques used:
-1. Decision Trees
-- Foundational knowledge on constructing decision trees using features.
-- Calculating entropy and information gain.
-- Implementing the ID3 algorithm.
-- Managing tree depth to reduce overfitting.
+1. **Decision Trees:** I have developed expertise in constructing decision trees using features, calculating entropy and information gain, implementing the ID3 algorithm, and managing tree depth to prevent overfitting.
 
-2. PAC Learnability and VC Dimension
-- Theoretical aspects of machine learning.
-- PAC learning and concept classes.
-- Sample complexity bounds.
-- VC dimension of various hypothesis spaces.
+2. **PAC Learnability and VC Dimension:** My knowledge includes theoretical aspects of machine learning, such as PAC learnability, concept classes, sample complexity bounds, and analyzing the VC dimension of hypothesis spaces.
 
-3. Logistic Regression
-- Optimization using stochastic gradient descent (SGD).
-- Regularization techniques.
-- Parameter tuning for improved performance.
+3. **Logistic Regression:** I have worked on optimizing logistic regression models using stochastic gradient descent (SGD), applying regularization techniques, and fine-tuning parameters for enhanced performance.
 
-4. Support Vector Machines (SVMs)
-- Implementation of SVMs using SGD.
-- Hyperparameter tuning.
-- Evaluation metrics: precision, recall, and F1 score.
+4. **Support Vector Machines (SVMs):** I have implemented SVMs using SGD, conducted hyperparameter tuning, and evaluated models with metrics like precision, recall, and F1 scores to ensure robust performance.
 
-5. Ensemble Methods
-- Ensemble approaches such as bagging.
-- Combining decision trees with SVMs for enhanced predictive performance.
+5. **Ensemble Methods:** My experience includes applying ensemble techniques like bagging and combining decision trees with SVMs to improve predictive accuracy and model robustness.
 
-6. Perceptron Algorithm and Variants
-- Basic Perceptron and its variants:
-  - Margin Perceptron.
-  - Averaged Perceptron.
-  - Aggressive updates for margin-based classification.
-- Cross-validation and hyperparameter tuning for optimal performance.
+6. **Perceptron Algorithm and Variants:** I have extensively worked on the Perceptron algorithm, exploring its variants such as margin Perceptron, averaged Perceptron, and aggressive updates, while incorporating cross-validation and hyperparameter tuning.
 
-7. Application to Real-world Data
-- Usage of datasets like:
-  - Mushroom Dataset.
-  - Diabetic Retinopathy data.
-- Practical implementation of machine learning concepts.
-
-[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code) 
+7. **Application to Real-world Data:** I have applied these machine learning techniques to real-world datasets like the Mushroom Dataset and Diabetic Retinopathy data, showcasing my ability to translate theoretical knowledge into practical problem-solving.
+<br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code) 
 
 ---
 **The DIY approach in T1 diabetes** (2023)
