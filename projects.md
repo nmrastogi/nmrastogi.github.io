@@ -15,7 +15,46 @@ The findings of this project were selected for a poster presentation at ACM [GRO
 
 
 **Machine Learning assignments** (2024)
+<br> Various machine learning techniques used:
+1. Decision Trees
+- Foundational knowledge on constructing decision trees using features.
+- Calculating entropy and information gain.
+- Implementing the ID3 algorithm.
+- Managing tree depth to reduce overfitting.
 
+2. PAC Learnability and VC Dimension
+- Theoretical aspects of machine learning.
+- PAC learning and concept classes.
+- Sample complexity bounds.
+- VC dimension of various hypothesis spaces.
+
+3. Logistic Regression
+- Optimization using stochastic gradient descent (SGD).
+- Regularization techniques.
+- Parameter tuning for improved performance.
+
+4. Support Vector Machines (SVMs)
+- Implementation of SVMs using SGD.
+- Hyperparameter tuning.
+- Evaluation metrics: precision, recall, and F1 score.
+
+5. Ensemble Methods
+- Ensemble approaches such as bagging.
+- Combining decision trees with SVMs for enhanced predictive performance.
+
+6. Perceptron Algorithm and Variants
+- Basic Perceptron and its variants:
+  - Margin Perceptron.
+  - Averaged Perceptron.
+  - Aggressive updates for margin-based classification.
+- Cross-validation and hyperparameter tuning for optimal performance.
+
+7. Application to Real-world Data
+- Usage of datasets like:
+  - Mushroom Dataset.
+  - Diabetic Retinopathy data.
+- Practical implementation of machine learning concepts.
+<br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code) 
 
 ---
 **The DIY approach in T1 diabetes** (2023)
