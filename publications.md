@@ -29,5 +29,5 @@ Atishay Jain, <ins>Naman Rastogi</ins>, Sushma Jain
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3688828.3699641) 
 [[Poster]](https://docs.google.com/presentation/d/1N4beN8QEIiCtyK-lazNWMtz2SVzAKhZHu3uk77db11s/edit?usp=sharing)
 <br>doi: [10.1145/3688828.3699641](https://doi.org/10.1145/3688828.3699641) 
-<br>Poster will be presented at ACM GROUP 2025, Hilton Head Island, SC
+<br>Poster was presented at ACM GROUP 2025, Hilton Head Island, SC
 
