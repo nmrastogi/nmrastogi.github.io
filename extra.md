@@ -22,9 +22,14 @@ author_profile: true
   </div>
 
   <!-- Add more images below -->
-  <!-- <div>
-    <img src="assets/images_extra/IMG_1234.jpg" alt="Example Place" style="width: 100%; border-radius: 10px;">
-    <p>Example Place</p>
-  </div> -->
+  <div>
+    <img src="/assets/images_extra/IMG_0237.jpg" alt="Hilton Head moon" style="width: 100%; border-radius: 10px;">
+    <p>Hilton Head moon</p>
+  </div>
+
+  <div>
+    <img src="/assets/images_extra/IMG_0259.jpg" alt="Ensign Peak" style="width: 100%; border-radius: 10px;">
+    <p>Ensign Peak</p>
+  </div>
 
 </div>
