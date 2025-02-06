@@ -18,6 +18,11 @@ author_profile: true
 ## Research Assistant, Vellore Institute of Technology
 **January 2022 - August 2022**
 <br> Investigated the impact of Covid-19 on pharmaceutical company stock prices. Applied data science techniques such as forward feature selection and Pearson correlation, uncovering a lack of direct correlation between Covid-19 cases and stock price trends. 
+
+## Data Analyst, GlobalShala
+**September 2022 - October 2022**
+<br> Associated with Illinois Institute of Technology. Data Visualization was used to identify the worst performing ad campaigns to discontinue.
+<br>[[Certificate]](https://drive.google.com/file/d/1uMzQK1_gKAgYjfQ4cXfglKXR_mHCgHn7/view) 
  
 
 <!-- **University of Utah**                 Salt Lake City, UT
