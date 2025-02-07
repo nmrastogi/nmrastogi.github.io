@@ -13,7 +13,10 @@ author_profile: true
 ## Teaching Assistant, Kahlert School Computing
 **January 2024 - Present**
 <br> **Location: Salt Lake City, UT**
-<br> Assisted in teaching DS2500 "Data Wrangling" by conducting weekly office hours and grading assignments for a class of 120 students, supporting skill development in data collection, cleaning, and organization. Led as head teaching assistant in the second term, providing feedback to the instructor to improve course structure and enhance the overall learning experience. 
+1. Assisted in teaching DS2500 "Data Wrangling" by conducting weekly office hours and grading assignments for a class of 120 students, supporting skill development in data collection, cleaning, and organization. 
+2. Led as head teaching assistant in the second term, providing feedback to the instructor to improve course structure and enhance the overall learning experience. 
+3. Served as head TA again for a third term, designing quizzes specifically to mitigate the impact of students using GPT, ensuring assessments accurately reflected their understanding.
+ 
 
 
 
