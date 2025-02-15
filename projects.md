@@ -37,6 +37,11 @@ The findings of this project were selected for a poster presentation at ACM [GRO
 <br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code) 
 
 ---
+**Natural Language Processing** (2024)
+<br>Developed and optimized NLP models, including logistic regression, feedforward neural networks, and transformers, for sentiment classification, language modeling, and text summarization tasks. Implemented advanced NLP techniques, such as feature extraction, deep averaging networks, transformer-based language modeling, and text generation evaluation using BLEU, ROUGE, and BERTScore.”
+<br>[[GitHub]](https://github.com/nmrastogi/CS-6340-NLP)
+
+---
 **The DIY approach in T1 diabetes** (2023)
 <br> In this project, we aimed to develop a deep insight into how the type-1 diabetic(T1D) community works to solve their issues without institutional experts. This led to our research question: “How do the type-1 diabetic community create their own knowledge and solve their own issues.”
 <br>[[PDF]](https://drive.google.com/file/d/1ewmNkJyvzRHUdEAzSXVCqc2h2EBxhd-b/view)
