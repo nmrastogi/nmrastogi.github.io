@@ -8,7 +8,7 @@ author_profile: true
 
 
 **Navigating Early-Stage Migration: Comparing QAnon Community Dynamics on Twitter, Parler, and Dotwin**  
-[[PDF]](https://osf.io/exh2k)  
+[[PDF]](https://osf.io/preprints/osf/exh2k_v1)  
 *ACM CSCW 2025 (under review)*  
 <ins>Naman Rastogi</ins>, Aly Hill, Marina Kogan  
 **Date**: 2024  
