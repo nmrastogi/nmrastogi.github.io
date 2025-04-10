@@ -8,7 +8,7 @@ author_profile: true
 ## Research Assistant, Kahlert School Computing
 **August 2023 - Present**        
 **Location: Salt Lake City, UT**
-<br>Examined the impact of platform migration on the QAnon community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how QAnon’s community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to the Jan 6th Capitol attack.
+<br>Examined the impact of platform migration on the community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to their ban.
 
 ## Teaching Assistant, Kahlert School Computing
 **January 2024 - Present**
