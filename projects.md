@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<span style="color:red">**Current Project: MCP Server-based LLM-based AI agent for Diabetes Monitoring**(2025-present)</span>  
+<span style="color:red">Current Project:</span>**MCP Server-based LLM-based AI agent for Diabetes Monitoring**(2025-present)  
 <br>This project implements an AI-driven diabetes monitoring system that leverages Anthropic's Model Context Protocol (MCP) to transform complex glucose data into actionable insights through natural language interactions with Claude. Built with a Python-based MCP server using FastMCP framework, the system provides five core tools for patient analysis: patient summary retrieval with date filtering, anomaly detection over configurable periods, hypoglycemic event analysis, glucose pattern assessment, and comprehensive diabetes reporting with personalized recommendations. Used Dexcom glucose monitoring data. 
 <br>[[GitHub]](https://github.com/nmrastogi/patient_mcp) 
 
