@@ -25,10 +25,11 @@ author_profile: true
 <br> **Location: Vellore, Tamil Nadu, India**
 <br> Investigated the impact of Covid-19 on pharmaceutical company stock prices. Applied data science techniques such as forward feature selection and Pearson correlation, uncovering a lack of direct correlation between Covid-19 cases and stock price trends. 
 
-## Data Analyst, GlobalShala
+## Software Intern, GlobalShala
 **September 2022 - October 2022**
 <br> **Location: Virtual**
-<br> Associated with Illinois Institute of Technology. Data Visualization was used to identify the worst performing ad campaigns to discontinue.
+<br> Developed an interactive dashboard using D3.js and React to make bar charts, histograms, and other visualizations to
+identify advertising insights, including best and worst-performing campaigns.
 <br>[[Certificate]](https://drive.google.com/file/d/1uMzQK1_gKAgYjfQ4cXfglKXR_mHCgHn7/view) 
  
 
