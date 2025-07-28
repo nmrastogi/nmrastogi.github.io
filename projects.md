@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 
-<span style="color:red">Current Project: </span> **Platform Migration** (2024-present) 
+<span style="color:red">**Current Project: MCP Server-based LLM-based AI agent for Diabetes Monitoring**(2025-present)</span>  
+<br>This project implements an AI-driven diabetes monitoring system that leverages Anthropic's Model Context Protocol (MCP) to transform complex glucose data into actionable insights through natural language interactions with Claude. Built with a Python-based MCP server using FastMCP framework, the system provides five core tools for patient analysis: patient summary retrieval with date filtering, anomaly detection over configurable periods, hypoglycemic event analysis, glucose pattern assessment, and comprehensive diabetes reporting with personalized recommendations. Used Dexcom glucose monitoring data. 
+<br>[[GitHub]](https://github.com/nmrastogi/patient_mcp) 
+
+---
+**Platform Migration** (2024-2025)
 <br>This project examines the impact of platform migration on the specific community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to their ban. We assess user engagement and influence changes, categorizing users into five distinct roles: ’common users,’ ‘broadcasters,’ ’influentials,’ ’hidden influentials,’ and ’lurkers.’ Conducted temporal analyses of weekly fluctuations in user activity, revealing significant trends and patterns in engagement across mainstream and alternative platforms. Introduced lexical analysis to examine the nature of conversations, categorizing content into themes such as violence and conspiracy to uncover underlying narratives within the specific community.
 <br>[[GitHub]](https://github.com/nmrastogi/QAnon) 
 
