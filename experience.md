@@ -11,7 +11,7 @@ author_profile: true
 <br>Examined the impact of platform migration on the community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to their ban.
 
 ## Teaching Assistant, Kahlert School Computing
-**January 2024 - Present**
+**January 2024 - May 2025**
 <br> **Location: Salt Lake City, UT**
 1. Assisted in teaching DS2500 "Data Wrangling" by conducting weekly office hours and grading assignments for a class of 120 students, supporting skill development in data collection, cleaning, and organization. 
 2. Led as head teaching assistant in the second term, providing feedback to the instructor to improve course structure and enhance the overall learning experience. 
@@ -26,16 +26,19 @@ author_profile: true
 <br> Investigated the impact of Covid-19 on pharmaceutical company stock prices. Applied data science techniques such as forward feature selection and Pearson correlation, uncovering a lack of direct correlation between Covid-19 cases and stock price trends. 
 
 ## Software Intern, GlobalShala
-**September 2022 - October 2022**
+**May 2022 - August 2022**
 <br> **Location: Virtual**
-<br> Developed an interactive dashboard using D3.js and React to make bar charts, histograms, and other visualizations to
-identify advertising insights, including best and worst-performing campaigns.
+<br> Developed an interactive dashboard using D3.js and React to make bar charts, histograms, and other visualizations to identify advertising insights, including best and worst-performing campaigns. 
 <br>[[Certificate]](https://drive.google.com/file/d/1uMzQK1_gKAgYjfQ4cXfglKXR_mHCgHn7/view) 
  
-
+## Machine Learning Intern, Foxmula
+**May 2021 - August 2021**
+<br> **Location: Virtual**
+<br> Built a house price prediction system using Python, engineered models using neural networks, decision trees, and regression techniques. Leveraged features engineering to improve performance.
+<br>[[Certificate]](https://drive.google.com/file/d/1gEx6oz1GGgVI-7UWgV9uUbxiROeqoEEz/view) 
 <!-- **University of Utah**                 Salt Lake City, UT
 
-Research Assistant, Kahlert School of Computing August 2023 – Present 
+<!-- Research Assistant, Kahlert School of Computing August 2023 – Present 
 
 *   Categorized over 300 million rows of social media using Dask framework, identifying user roles to analyze community dynamics within QAnon.
     
@@ -54,4 +57,4 @@ Research Assistant January 2022 – August 2022
     
 *   Applied data science techniques such as forward feature selection and Pearson correlation, uncovering a lack of direct correlation between Covid-19 cases and stock price trends.
     
-*   Demonstrated the importance of hypothesis testing by showing that Covid-19 alone could not predict stock prices, refining analytical approaches for complex financial modeling. -->
+<!-- *   Demonstrated the importance of hypothesis testing by showing that Covid-19 alone could not predict stock prices, refining analytical approaches for complex financial modeling. --> --> -->
