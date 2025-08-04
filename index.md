@@ -10,7 +10,7 @@ author_profile: true
 
 My name is Naman Rastogi, I'm a software engineer and researcher passionate about solving real-world problems through data-driven innovation. I am experienced in software development using Python, React, SQL, and data processing frameworks such as Spark, NumPy, and Pandas. Developed an AI agent for Diabetes using LLMs and the MCP. 
 
-I did my Master's in Computer science at the [Kahlert School of Computing](https://www.cs.utah.edu/), University of Utah. I was advised by [Dr. Marina Kogan](http://www.mkoganresearch.com/). 
+I did my Master's in Computer Science at the [Kahlert School of Computing](https://www.cs.utah.edu/), University of Utah. I was advised by [Dr. Marina Kogan](http://www.mkoganresearch.com/). 
 
 My research interests are **Social Computing** and **Human-centered computing**. Specifically, I like using Machine Learning and Natural Language Processing techniques on social media data with a special focus on healthcare. 
 
