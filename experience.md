@@ -5,8 +5,13 @@ permalink: /experience/
 author_profile: true
 ---
 
+## Software Engineer Intern, Starteryou 
+**August 2025 - Current**        
+**Location: Remote, New York**
+<br>I built scalable web and mobile features for a student engagement platform using React, Node.js, and MongoDB, while architecting Azure infrastructure with Docker and Terraform to reduce deployment time by 40%. I set up CI/CD pipelines via GitHub Actions, collaborated in an Agile team to deliver a smooth MVP rollout, and streamlined development through a ticketing system for efficient task management. Post-launch, I provided ongoing support with bug fixes, performance tuning, and new feature development to ensure platform stability, scalability, and an improved user experience.
+
 ## Research Assistant, Kahlert School Computing
-**August 2023 - Present**        
+**August 2023 - August 2025**        
 **Location: Salt Lake City, UT**
 <br>Examined the impact of platform migration on the community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to their ban.
 
@@ -36,6 +41,9 @@ author_profile: true
 <br> **Location: Virtual**
 <br> Built a house price prediction system using Python, engineered models using neural networks, decision trees, and regression techniques. Leveraged features engineering to improve performance.
 <br>[[Certificate]](https://drive.google.com/file/d/1gEx6oz1GGgVI-7UWgV9uUbxiROeqoEEz/view) 
+
+
+
 <!-- **University of Utah**                 Salt Lake City, UT
 
 <!-- Research Assistant, Kahlert School of Computing August 2023 – Present 
@@ -57,4 +65,4 @@ Research Assistant January 2022 – August 2022
     
 *   Applied data science techniques such as forward feature selection and Pearson correlation, uncovering a lack of direct correlation between Covid-19 cases and stock price trends.
     
-<!-- *   Demonstrated the importance of hypothesis testing by showing that Covid-19 alone could not predict stock prices, refining analytical approaches for complex financial modeling. --> --> -->
+<!-- *   Demonstrated the importance of hypothesis testing by showing that Covid-19 alone could not predict stock prices, refining analytical approaches for complex financial modeling. --> 
