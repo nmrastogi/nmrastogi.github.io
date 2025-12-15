@@ -11,6 +11,16 @@ author_profile: true
 <br>[[GitHub]](https://github.com/nmrastogi/patient_mcp) 
 
 ---
+**Health Data Export System** (Aug 2025 - Present)
+<br>Health Data Export System is a scalable data ingestion and analytics pipeline designed to process real-time health data exported from the iPhone Auto Export (Apple Health) app. The system supports two ingestion modes: a Flask-based REST API server for direct JSON uploads and a FastAPI gateway that forwards requests to a backend gRPC service for high-throughput, low-latency processing. Incoming health metrics are validated, transformed, and written to an AWS RDS MySQL database, with Pandas used for time-series processing of glucose and insulin events.
+<br>[[GitHub]](https://github.com/nmrastogi/health_export_system) 
+
+---
+**AI-powered HackerRank Candidate Screening Agent** (Nov 2025 - Dec 2025)
+<br>Built an AI-powered HackerRank Candidate Screening Agent using MCP, an end-to-end automation system that streamlines technical hiring by orchestrating real production workflows through Anthropic's Model Context Protocol. The agent fetches and paginates candidate results via HackerRank's REST APIs, applies configurable pass thresholds and ranking logic, automatically advances top performers to harder assessments, sends personalized email notifications, and schedules recruiter interviews using Google Calendar. Core screening actions are exposed as MCP tools, enabling assistants like Claude Desktop to safely trigger backend workflows.
+<br>[[GitHub]](https://github.com/nmrastogi/hacker_rank) 
+
+---
 **Platform Migration** (2024-2025)
 <br>This project examines the impact of platform migration on the specific community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to their ban. We assess user engagement and influence changes, categorizing users into five distinct roles: ’common users,’ ‘broadcasters,’ ’influentials,’ ’hidden influentials,’ and ’lurkers.’ Conducted temporal analyses of weekly fluctuations in user activity, revealing significant trends and patterns in engagement across mainstream and alternative platforms. Introduced lexical analysis to examine the nature of conversations, categorizing content into themes such as violence and conspiracy to uncover underlying narratives within the specific community.
 <br>[[GitHub]](https://github.com/nmrastogi/QAnon) 
