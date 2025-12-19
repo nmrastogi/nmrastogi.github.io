@@ -7,7 +7,7 @@ author_profile: true
 
 
 <span style="color:red">Current Project:</span> **MCP Server-based LLM-based AI agent for Diabetes Monitoring**(2025-present)  
-<br>This project implements an AI-driven diabetes monitoring system that leverages Anthropic's Model Context Protocol (MCP) to transform complex glucose data into actionable insights through natural language interactions with Claude. Built with a Python-based MCP server using FastMCP framework, the system provides five core tools for patient analysis: patient summary retrieval with date filtering, anomaly detection over configurable periods, hypoglycemic event analysis, glucose pattern assessment, and comprehensive diabetes reporting with personalized recommendations. Used Dexcom glucose monitoring data. 
+<br>Built a Diabetes Monitoring AI agent that connects real patient-generated data from Apple Health to an Amazon RDS MySQL backend and exposes it to AI through the Model Context Protocol. The server provides five callable MCP tools that enable AI clients like Claude Desktop to retrieve glucose, sleep, and exercise records, detect temporal and behavioral patterns, and compute correlations between lifestyle factors and glucose outcomes using techniques such as Pearson's correlation. It uses Python, SQLAlchemy ORM, PyMySQL, and environment-based configuration to securely query timestamped CGM readings, sleep-stage breakdowns, and workout durations. The system enables end-to-end analytics, Apple Health data ingestion, typed MySQL storage, and AI-driven insight generation—without dashboards or manual preprocessing, accelerating experimentation in HealthTech workflows.
 <br>[[GitHub]](https://github.com/nmrastogi/patient_mcp) 
 
 ---
