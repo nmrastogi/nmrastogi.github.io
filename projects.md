@@ -8,12 +8,15 @@ author_profile: true
 
 <span style="color:red">Current Project:</span> **MCP Server-based LLM-based AI agent for Diabetes Monitoring**(2025-present)  
 <br>Built a Diabetes Monitoring AI agent that connects real patient-generated data from Apple Health to an Amazon RDS MySQL backend and exposes it to AI through the Model Context Protocol. The server provides five callable MCP tools that enable AI clients like Claude Desktop to retrieve glucose, sleep, and exercise records, detect temporal and behavioral patterns, and compute correlations between lifestyle factors and glucose outcomes using techniques such as Pearson's correlation. It uses Python, SQLAlchemy ORM, PyMySQL, and environment-based configuration to securely query timestamped CGM readings, sleep-stage breakdowns, and workout durations. The system enables end-to-end analytics, Apple Health data ingestion, typed MySQL storage, and AI-driven insight generation—without dashboards or manual preprocessing, accelerating experimentation in HealthTech workflows.
-<br>[[GitHub]](https://github.com/nmrastogi/patient_mcp) 
+<br>[[GitHub]](https://github.com/nmrastogi/patient_mcp)
 
 ---
 **Producer-Consumer** (Dec 2025)
 <br>A production-style producer–consumer system built using Apache Kafka and Go, running Kafka in Docker and explicitly using KRaft (Kafka Raft) for metadata management. The system leverages partitioned Kafka topics, consumer groups, and hash-based message partitioning to enable parallel, load-balanced processing. To account for Kafka’s eventual consistency in KRaft mode, the design includes broker readiness checks, controller-aware topic initialization, and robust retry and backoff logic for transient coordinator failures. Compared to an in-memory queue, this architecture provides durable, disk-backed storage, fault tolerance across restarts, and the ability for consumers to resume processing from committed offsets or replay data when needed.
 <br>[[GitHub]](https://github.com/nmrastogi/producer_consumer) 
+![Screenshot 1](/assets/images/a.png)
+
+![Screenshot 2](/assets/images/b.png) 
 
 ---
 **Health Data Export System** (Aug 2025 - Present)
