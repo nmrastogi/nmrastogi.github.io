@@ -11,6 +11,11 @@ author_profile: true
 <br>[[GitHub]](https://github.com/nmrastogi/patient_mcp) 
 
 ---
+**Producer-Consumer** (Dec 2025)
+<br>A production-style producer–consumer system built using Apache Kafka and Go, running Kafka in Docker and explicitly using KRaft (Kafka Raft) for metadata management. The system leverages partitioned Kafka topics, consumer groups, and hash-based message partitioning to enable parallel, load-balanced processing. To account for Kafka’s eventual consistency in KRaft mode, the design includes broker readiness checks, controller-aware topic initialization, and robust retry and backoff logic for transient coordinator failures. Compared to an in-memory queue, this architecture provides durable, disk-backed storage, fault tolerance across restarts, and the ability for consumers to resume processing from committed offsets or replay data when needed.
+<br>[[GitHub]](https://github.com/nmrastogi/producer_consumer) 
+
+---
 **Health Data Export System** (Aug 2025 - Present)
 <br>Health Data Export System is a scalable data ingestion and analytics pipeline designed to process real-time health data exported from the iPhone Auto Export (Apple Health) app. The system supports two ingestion modes: a Flask-based REST API server for direct JSON uploads and a FastAPI gateway that forwards requests to a backend gRPC service for high-throughput, low-latency processing. Incoming health metrics are validated, transformed, and written to an AWS RDS MySQL database, with Pandas used for time-series processing of glucose and insulin events.
 <br>[[GitHub]](https://github.com/nmrastogi/health_export_system) 
