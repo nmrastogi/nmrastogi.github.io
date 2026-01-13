@@ -12,11 +12,11 @@ author_profile: true
 
 ---
 **Producer-Consumer** (Dec 2025)
-<br>A production-style producer–consumer system built using Apache Kafka and Go, running Kafka in Docker and explicitly using KRaft (Kafka Raft) for metadata management. The system leverages partitioned Kafka topics, consumer groups, and hash-based message partitioning to enable parallel, load-balanced processing. To account for Kafka’s eventual consistency in KRaft mode, the design includes broker readiness checks, controller-aware topic initialization, and robust retry and backoff logic for transient coordinator failures. Compared to an in-memory queue, this architecture provides durable, disk-backed storage, fault tolerance across restarts, and the ability for consumers to resume processing from committed offsets or replay data when needed.
+<br>A production-style producer–consumer system built using Apache Kafka and Go, running Kafka in Docker and explicitly using KRaft (Kafka Raft) for metadata management. The system leverages partitioned Kafka topics, consumer groups, and hash-based message partitioning to enable parallel, load-balanced processing. To account for Kafka's eventual consistency in KRaft mode, the design includes broker readiness checks, controller-aware topic initialization, and robust retry and backoff logic for transient coordinator failures. Compared to an in-memory queue, this architecture provides durable, disk-backed storage, fault tolerance across restarts, and the ability for consumers to resume processing from committed offsets or replay data when needed.
 <br>[[GitHub]](https://github.com/nmrastogi/producer_consumer) 
-![Screenshot 1](/assets/images/a.png)
+![Screenshot 1]({{ site.url }}{{ site.baseurl }}/assets/images/a.png)
 
-![Screenshot 2](/assets/images/b.png) 
+![Screenshot 2]({{ site.url }}{{ site.baseurl }}/assets/images/b.png) 
 
 ---
 **Health Data Export System** (Aug 2025 - Present)
