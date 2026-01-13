@@ -29,6 +29,11 @@ author_profile: true
 <br>[[GitHub]](https://github.com/nmrastogi/hacker_rank) 
 
 ---
+**Interactive Data Visualization Platform for U.S. Suicide Statistics**
+<br>An interactive web-based data visualization platform was developed to explore U.S. suicide statistics from 2014–2023 at the state level, with an emphasis on clarity, comparability, and responsible communication of sensitive public-health data. The system integrates multiple coordinated views, including an interactive choropleth map, time-series comparisons, animated bar and line chart races, scroll-driven map narratives, scatter plots, heatmaps, and percentage-change analysis to reveal trends and disparities over time. All visualizations default to age-adjusted rates to enable fair comparisons across states with differing population structures. Built using D3.js, TopoJSON, and vanilla JavaScript, the platform is fully static, easily deployable on services such as GitHub Pages, and designed to make complex public-health data more accessible and interpretable.
+<br>[[GitHub]](https://github.com/nmrastogi/data_viz_sui) [[Live Demo]](https://nmrastogi.github.io/data_viz_sui/) 
+
+---
 **Platform Migration** (2024-2025)
 <br>This project examines the impact of platform migration on the specific community during their transition from Twitter to alternative platforms like Parler and Dotwin following initial widespread account bans on Twitter. We examine how community dynamics—including user roles and activities—evolved amidst this migration by analyzing their activities on Twitter, Parler, and Dotwin in the months leading up to their ban. We assess user engagement and influence changes, categorizing users into five distinct roles: ’common users,’ ‘broadcasters,’ ’influentials,’ ’hidden influentials,’ and ’lurkers.’ Conducted temporal analyses of weekly fluctuations in user activity, revealing significant trends and patterns in engagement across mainstream and alternative platforms. Introduced lexical analysis to examine the nature of conversations, categorizing content into themes such as violence and conspiracy to uncover underlying narratives within the specific community.
 <br>[[GitHub]](https://github.com/nmrastogi/QAnon) 
@@ -41,7 +46,7 @@ The findings of this project were selected for a poster presentation at ACM [GRO
 <br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code/Project) 
 
 ---
-**Machine Learning assignments** (2024)
+<!-- **Machine Learning assignments** (2024)
 <br> Various machine learning techniques used:
 1. **Decision Trees:** I have developed expertise in constructing decision trees using features, calculating entropy and information gain, implementing the ID3 algorithm, and managing tree depth to prevent overfitting.
 
@@ -56,17 +61,17 @@ The findings of this project were selected for a poster presentation at ACM [GRO
 6. **Perceptron Algorithm and Variants:** I have extensively worked on the Perceptron algorithm, exploring its variants such as margin Perceptron, averaged Perceptron, and aggressive updates, while incorporating cross-validation and hyperparameter tuning.
 
 7. **Application to Real-world Data:** I have applied these machine learning techniques to real-world datasets like the Mushroom Dataset and Diabetic Retinopathy data, showcasing my ability to translate theoretical knowledge into practical problem-solving.
-<br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code) 
+<br>[[GitHub]](https://github.com/nmrastogi/CS-6350-ML/tree/main/ML%20code)  -->
 
----
+<!-- ---
 **Natural Language Processing** (2024)
 <br>Developed and optimized NLP models, including logistic regression, feedforward neural networks, and transformers, for sentiment classification, language modeling, and text summarization tasks. Implemented advanced NLP techniques, such as feature extraction, deep averaging networks, transformer-based language modeling, and text generation evaluation using BLEU, ROUGE, and BERTScore.”
-<br>[[GitHub]](https://github.com/nmrastogi/CS-6340-NLP)
+<br>[[GitHub]](https://github.com/nmrastogi/CS-6340-NLP) -->
 
----
+<!-- ---
 **The DIY approach in T1 diabetes** (2023)
 <br> In this project, we aimed to develop a deep insight into how the type-1 diabetic(T1D) community works to solve their issues without institutional experts. This led to our research question: “How do the type-1 diabetic community create their own knowledge and solve their own issues.”
-<br>[[PDF]](https://drive.google.com/file/d/1ewmNkJyvzRHUdEAzSXVCqc2h2EBxhd-b/view)
+<br>[[PDF]](https://drive.google.com/file/d/1ewmNkJyvzRHUdEAzSXVCqc2h2EBxhd-b/view) -->
 
 ---
 **Assessing the Influence of the Covid 19 Pandemic on Indian Pharmaceutical Companies** (2022)
