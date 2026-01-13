@@ -31,4 +31,9 @@ codekit-config.json
 _asset_bundler_cache
 _site
 
-assets/images/
+assets/images/*
+!assets/images/a.png
+!assets/images/b.png
+!assets/images/Photo.jpeg
+!assets/images/Photo2.jpg
+!assets/images/Photo3.jpg
